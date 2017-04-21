@@ -1,0 +1,19 @@
+{
+  "name": "conways_game1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Will-Wrightwa/conways_game1.git"
+  },
+  "author": "Will Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Will-Wrightwa/conways_game1/issues"
+  },
+  "homepage": "https://github.com/Will-Wrightwa/conways_game1#readme"
+}
