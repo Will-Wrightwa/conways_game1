@@ -3,4 +3,4 @@ const show = require('./show');
 const bigBang = require('./bigBang');
 
 
-game(bigBang(60),400)
+game(bigBang(100),400)
